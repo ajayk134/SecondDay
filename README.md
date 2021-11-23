@@ -14,3 +14,8 @@
     12. git commit -m"String" -> commit all the changes by the git
     13. git remote -> after commiting we need a remote which has connection between the local hed bsall to the git hub repository
     14. git remote add remote url-> to add a remote
+    15. git log -> to check all the commit that u have done till now
+    16. git log --oneline -> it gives only 1st seven characters of the sha key(simple hashing algorithm)
+    17. git log sha key -> to get the commit
+    18. git fetch remotename branch -> to fetch the file
+    19. git pull remotename branch -> to pull the file
